@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:grid="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/choice_grid"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:padding="4dp"
+
+    grid:alignmentMode="alignBounds"
+    grid:columnCount="3"
+    grid:rowCount="3"
+    grid:rowOrderPreserved="false"
+    grid:useDefaultMargins="true">
+
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureA"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureB"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+    <ImageView
+        android:id="@+id/image3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureC"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+    <ImageView
+        android:id="@+id/image4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureC"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+    <ImageView
+        android:id="@+id/image5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureA"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+    <ImageView
+        android:id="@+id/image6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureB"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+    <ImageView
+        android:id="@+id/image7"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureB"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+    <ImageView
+        android:id="@+id/image8"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureC"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+    <ImageView
+        android:id="@+id/image9"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:src="@drawable/pictureA"
+        grid:layout_columnWeight="1"
+        grid:layout_gravity="fill_horizontal"
+        grid:layout_rowWeight="1" />
+
+</android.support.v7.widget.GridLayout>
