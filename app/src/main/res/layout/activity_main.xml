@@ -21,7 +21,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureA"
+        android:src="@drawable/picture_a"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
@@ -32,7 +32,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureB"
+        android:src="@drawable/picture_b"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
@@ -43,7 +43,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureC"
+        android:src="@drawable/picture_c"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
@@ -54,7 +54,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureC"
+        android:src="@drawable/picture_c"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
@@ -65,7 +65,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureA"
+        android:src="@drawable/picture_a"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
@@ -76,7 +76,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureB"
+        android:src="@drawable/picture_b"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
@@ -87,7 +87,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureB"
+        android:src="@drawable/picture_b"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
@@ -98,7 +98,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureC"
+        android:src="@drawable/picture_c"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
@@ -109,7 +109,7 @@
         android:layout_height="0dp"
         android:padding="10dp"
         android:gravity="center"
-        android:src="@drawable/pictureA"
+        android:src="@drawable/picture_a"
         grid:layout_columnWeight="1"
         grid:layout_gravity="fill_horizontal"
         grid:layout_rowWeight="1" />
